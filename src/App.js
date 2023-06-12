@@ -1,16 +1,15 @@
 
 
-import Home from "./pages/home/Home";
-
+import Login from "./pages/home/Home"
 
 
 
 function App() {
   return (
-    <Home /> 
-    // <Profile />
-    // <Register />
-    // <Login />
+    //<Home /> 
+    //<Profile />
+  //<Register />
+    <Login />
     
   )
   

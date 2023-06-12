@@ -41,6 +41,6 @@ export default function Topbar() {
                 <img src="/assets/person/1.jpeg" alt="" className="topbarImg" />
             </div>
         </div>
-    )
+    );
 }
 
